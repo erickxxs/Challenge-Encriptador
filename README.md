@@ -50,19 +50,3 @@ Este proyecto es una aplicación web simple que permite a los usuarios encriptar
 2. Haga clic en el botón **Encriptar** para encriptar el texto o en **Desencriptar** para desencriptarlo.
 3. Use el botón **Copiar** para copiar el resultado al portapapeles.
 
-## Contribución
-
-Las contribuciones son bienvenidas. Puedes seguir estos pasos para contribuir al proyecto:
-
-1. Realiza un fork del proyecto.
-2. Crea una nueva rama (`git checkout -b feature/nueva-funcionalidad`).
-3. Realiza tus cambios y haz commit (`git commit -m 'Agregar nueva funcionalidad'`).
-4. Envía los cambios a la rama principal (`git push origin feature/nueva-funcionalidad`).
-5. Abre un Pull Request.
-
-## Licencia
-
-Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
-```
-
-Puedes personalizar el contenido según las necesidades de tu proyecto o agregar más secciones como "Problemas conocidos", "Créditos", etc., si es necesario.
